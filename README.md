@@ -6,28 +6,29 @@ This project builds ML models to predict corporate bankruptcy risk using financi
 
 ## General Outline
 
-EDA
+* EDA
 
-Building, testing, and tuning prediction models
+* Building, testing, and tuning prediction models
 
-Decision Threshold Tuning
+* Decision Threshold Tuning
 
 ## Applications
 
-Credit Risk Modeling
+* Credit Risk Modeling
 
-Corporate Default Prediction
+* Corporate Default Prediction
 
-Financial Stability Assessment
+* Financial Stability Assessment
 
 ## Tech Stack
 
-Python (Pandas, NumPy, Scikit-Learn, XGBoost), Data Visualization (Matplotlib, Seaborn).
+* Python (Pandas, NumPy, Scikit-Learn, XGBoost)
+* Data Visualization (Matplotlib, Seaborn).
 
 📊 Key Results
 
-Monotonic XGBoost model achieved ~0.932 AUROC.
+* Monotonic XGBoost model achieved ~0.932 AUROC.
 
-Monotonic constraints improved interpretability.
+* Monotonic constraints improved interpretability.
 
-Threshold tuning reduced false negatives for financial risk applications.
+* Threshold tuning reduced false negatives for financial risk applications.
