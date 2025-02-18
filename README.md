@@ -25,7 +25,7 @@ This project builds ML models to predict corporate bankruptcy risk using financi
 * Python (Pandas, NumPy, Scikit-Learn, XGBoost)
 * Data Visualization (Matplotlib, Seaborn)
 
-📊 Key Results
+## Key Results
 
 * Monotonic XGBoost model achieved ~0.932 AUROC.
 
