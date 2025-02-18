@@ -23,7 +23,7 @@ This project builds ML models to predict corporate bankruptcy risk using financi
 ## Tech Stack
 
 * Python (Pandas, NumPy, Scikit-Learn, XGBoost)
-* Data Visualization (Matplotlib, Seaborn).
+* Data Visualization (Matplotlib, Seaborn)
 
 📊 Key Results
 
